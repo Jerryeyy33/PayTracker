@@ -1,0 +1,5 @@
+{
+  "name": "PayTracker: Work & Earnings Log",
+  "description": "An application to track daily work hours and automatically calculate earnings based on a monthly salary. Users can set their salary details, punch in and out, and view a detailed log of their work and earnings.",
+  "requestFramePermissions": []
+}
